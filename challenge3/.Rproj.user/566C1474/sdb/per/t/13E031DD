@@ -1,0 +1,28 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1460154884344.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "13E031DD",
+    "lastKnownWriteTime" : 8317700387750543360,
+    "last_content_update" : 1460154884344,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "y80uuz52ml",
+        "caption" : "Challenge_3_Prov_Taxonomy_1_1_13",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=Challenge_3_Prov_Taxonomy_1_1_13&cache_key=y80uuz52ml",
+        "displayedObservations" : 829,
+        "environment" : "",
+        "object" : "Challenge_3_Prov_Taxonomy_1_1_13",
+        "totalObservations" : 829,
+        "variables" : 6
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}

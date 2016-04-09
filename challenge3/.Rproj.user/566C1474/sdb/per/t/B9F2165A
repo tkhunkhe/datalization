@@ -1,0 +1,28 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1460155056283.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "B9F2165A",
+    "lastKnownWriteTime" : 4320810056,
+    "last_content_update" : 1460155056283,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "8uij0hs8n6",
+        "caption" : "Challenge_3_npi_lookup_data",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=Challenge_3_npi_lookup_data&cache_key=8uij0hs8n6",
+        "displayedObservations" : 356812,
+        "environment" : "",
+        "object" : "Challenge_3_npi_lookup_data",
+        "totalObservations" : 356812,
+        "variables" : 331
+    },
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}
